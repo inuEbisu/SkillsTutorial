@@ -1,0 +1,15 @@
+{
+  "name": "slidetemplate",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inuEbisu/slidetemplate.git"
+  },
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
