@@ -3,3 +3,4 @@ site
 node_modules
 .DS_Store
 slides/lec1.md
+*.pdf
