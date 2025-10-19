@@ -192,9 +192,9 @@ title: "Lec 0. 课程前瞻"
 
 ### 课程资源
 
-课程主页：https://inuebisu.github.io/SkillsTurorial
+课程主页：https://inuebisu.github.io/SkillsTutorial
 
-课程仓库：https://github.com/inuEbisu/SkillsTurorial
+课程仓库：https://github.com/inuEbisu/SkillsTutorial
 
 课程回放：每次课程结束后会上传至 Bilibili [@犬戎大充斥](https://space.bilibili.com/388444813)
 
