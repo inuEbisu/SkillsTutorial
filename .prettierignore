@@ -1,7 +1,7 @@
 .git
 .github
 .sass-cache
-assets
+theme
 mkslides.yml
 
 package*.json
