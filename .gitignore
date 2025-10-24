@@ -1,6 +1,12 @@
+# Python
+__pycache__
+*.pyc
 venv
-site
+
+# Node
 node_modules
+
+# Project
+site
 .DS_Store
-slides/lec1.md
 *.pdf
