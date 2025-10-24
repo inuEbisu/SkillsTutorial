@@ -8,7 +8,7 @@ index:
     # template: ./example.jinja
 
     # Theme of the generated index page: file path or public url to CSS file
-    theme: ./assets/index.css
+    theme: ./theme/index.css
 
     # Title of the generated index page: string
     title: "2025 年秋冬学期计算机学院朋辈辅学「技能拾遗」"
@@ -52,7 +52,7 @@ slides:
     # Theme of the slides: file path to CSS file, public url to CSS file, or one
     # of the reveal.js themes such as `black`, `white`, `league`, `solarized`,
     # `dracula`, ... (see https://revealjs.com/themes/)
-    theme: ./assets/slides.css
+    theme: ./theme/slides.css
 
 # Options to be passed to reveal.js: options in yaml format, they will be
 # translated to JSON automatically (see https://revealjs.com/config/)
