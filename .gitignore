@@ -10,3 +10,6 @@ node_modules
 site
 .DS_Store
 *.pdf
+
+slides/lec3.md
+slides/lec4.md
