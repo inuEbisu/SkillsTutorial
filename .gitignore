@@ -9,6 +9,7 @@ node_modules
 # Project
 site
 .DS_Store
+pdf
 *.pdf
 
 slides/lec3.md
