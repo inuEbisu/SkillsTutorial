@@ -1,5 +1,5 @@
 ---
-title: "Lec 2. Linux 与 Linux 下的工作流"
+title: "Lec 2. Linux 及其工作流"
 ---
 
 # Lec 2. Linux 及其工作流
