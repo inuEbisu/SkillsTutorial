@@ -1,8 +1,8 @@
-# SlideTemplate
+# SkillsTutorial
 
-犬戎的 MkSlides 主题。
+2025 年秋冬学期浙江大学计算机学院朋辈辅学「技能拾遗」课程仓库
 
-预览：[https://inuebisu.github.io/SlideTemplate/](https://inuebisu.github.io/SlideTemplate/)
+课程主页：https://inuebisu.github.io/SkillsTutorial
 
 ## 构建与部署
 
