@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 810 768"
+   version="1.1">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="Copyright 2022 Free Software Foundation, Inc.
+         Creative Commons Attribution-ShareAlike 4.0 International License">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <style>
+     text { font-family: sans-serif; }
+     a:hover, a:focus { opacity: 60%; }
+  </style>
+  <marker
+     overflow="visible"
+     refX="0"
+     refY="0"
+     orient="auto"
+     id="Arrow1Lstart"
+     transform="translate(-59,59)">
+    <path
+       d="M 0,0 4,-4 -10,0 4,4 Z"
+       stroke="#444444"
+       stroke-width="1px"
+       fill="#444444"
+       id="arrowhead" />
+  </marker>
+  <!-- Background -->
+  <rect
+     x="0"
+     y="0"
+     width="810"
+     height="768"
+     stroke="none"
+     fill="#ffffff"
+     id="background" />
+  <!-- Free-nonfree -->
+  <rect
+     x="34"
+     y="34"
+     width="768"
+     height="360"
+     fill="#e6e6ff"
+     stroke="#5c5ce0"
+     stroke-width="6"
+     id="free" />
+  <rect
+     x="34"
+     y="400"
+     width="768"
+     height="360"
+     fill="#ffe3e3"
+     stroke="#ff0000"
+     stroke-width="6"
+     id="nonfree" />
+  <!-- Separators -->
+  <path
+     d="M 600,37 V 391"
+     stroke="#5c5ce0"
+     stroke-width="4"
+     id="free-sep0" />
+  <path
+     d="M 37,94 H 598"
+     stroke="#5c5ce0"
+     stroke-width="2"
+     id="free-sep1" />
+  <path
+     d="M 37,180 H 598"
+     stroke="#5c5ce0"
+     stroke-width="2"
+     id="free-sep2" />
+  <path
+     d="M 37,320 H 598"
+     stroke="#5c5ce0"
+     stroke-width="2"
+     id="free-sep3" />
+  <!-- Colored areas -->
+  <rect
+     x="130"
+     y="245"
+     width="420"
+     height="48"
+     fill="#0000cc"
+     opacity="0.16"
+     id="gpl" />
+  <rect
+     x="106"
+     y="460"
+     width="240"
+     height="48"
+     fill="#ffc1c1"
+     id="freeware" />
+  <rect
+     x="106"
+     y="515"
+     width="240"
+     height="48"
+     fill="#ffc1c1"
+     id="shareware" />
+  <!-- Open source border -->
+  <path
+     d="M 40,40 V 429 H 397 V 324 h 15 V 40 Z"
+     fill="none"
+     stroke="#b38566"
+     stroke-width="6"
+     id="open-source" />
+  <!-- Released-private separator -->
+  <path
+     d="M 418,31 V 763"
+     stroke="#008534"
+     stroke-width="6"
+     id="released-private-sep" />
+  <!-- Gratis overlay -->
+  <rect
+     x="91"
+     y="55"
+     width="270"
+     height="525"
+     opacity="0.1"
+     rx="30"
+     id="gratis" />
+  <!-- Arrow -->
+  <path
+     d="M 226,590 v 15"
+     fill="none"
+     marker-start="url(#Arrow1Lstart)"
+     stroke-width="1"
+     stroke="#404040"
+     id="arrow" />
+  <!-- Light background under text -->
+  <rect
+     x="50"
+     y="70"
+     width="25"
+     height="300"
+     fill="#e6e6ff"
+     id="patch-open-source" />
+  <rect
+     x="402"
+     y="55"
+     width="25"
+     height="22"
+     fill="#e6e6ff"
+     id="patch-free1" />
+  <rect
+     x="402"
+     y="125"
+     width="25"
+     height="22"
+     fill="#e6e6ff"
+     id="patch-free2" />
+  <rect
+     x="402"
+     y="203"
+     width="25"
+     height="22"
+     fill="#e6e6ff"
+     id="patch-free3" />
+  <rect
+     x="402"
+     y="258"
+     width="25"
+     height="22"
+     fill="#c2c2f7"
+     id="patch-gpl" />
+  <rect
+     x="385"
+     y="343"
+     width="45"
+     height="22"
+     fill="#e6e6ff"
+     id="patch-free4" />
+  <rect
+     x="405"
+     y="652"
+     width="25"
+     height="54"
+     fill="#ffe3e3"
+     id="patch-nonfree" />
+
+  <a
+     href="/philosophy/categories.html#FreeSoftware"
+     target="_parent"
+     id="a01">
+    <text
+       x="-214"
+       y="21"
+       text-anchor="middle"
+       transform="rotate(-90)"
+       fill="#0000aa"
+       font-size="22px"
+       letter-spacing="1.2px"
+       word-spacing="3px"
+       id="free-txt">自由软件</text>
+  </a>
+  <a
+     href="/philosophy/categories.html#non-freeSoftware"
+     target="_parent"
+     id="a02">
+    <text
+       x="-580"
+       y="21"
+       text-anchor="middle"
+       transform="rotate(-90)"
+       fill="#ff0000"
+       font-size="22px"
+       letter-spacing="1.2px"
+       word-spacing="3px"
+       id="nonfree-txt">非自由软件</text>
+  </a>
+  <a
+     href="/philosophy/categories.html#PrivateSoftware"
+     target="_parent"
+     id="a03">
+    <text
+       x="226"
+       y="21"
+       text-anchor="middle"
+       fill="#005522"
+       font-size="22px"
+       id="released-txt">已发布软件</text>
+  </a>
+  <a
+     href="/philosophy/categories.html#PrivateSoftware"
+     target="_parent"
+     id="a03">
+    <text
+       x="610"
+       y="21"
+       text-anchor="middle"
+       fill="#005522"
+       font-size="22px"
+       id="private-txt">私有软件</text>
+  </a>
+  <text
+     x="700"
+     y="190"
+     text-anchor="middle"
+     font-size="20px"
+     id="free-private-txt1">用户对源代码</text>
+  <text
+     x="700"
+     y="220"
+     text-anchor="middle"
+     font-size="20px"
+     id="free-private-txt2">拥有</text>
+  <text
+     x="700"
+     y="250"
+     text-anchor="middle"
+     font-size="20px"
+     id="free-private-txt3">无限制的权利。</text>
+  <a
+     href="/philosophy/categories.html#OpenSource"
+     target="_parent"
+     id="a04">
+    <text
+       x="-219"
+       y="70"
+       text-anchor="middle"
+       transform="rotate(-90)"
+       fill="#803300"
+       font-size="22px"
+       letter-spacing="1.2px"
+       word-spacing="3px"
+       id="open-source-txt">开源软件</text>
+  </a>
+  <a
+     href="/philosophy/categories.html#PublicDomainSoftware"
+     target="_parent"
+     id="a05">
+    <text
+       x="340"
+       y="72"
+       text-anchor="middle"
+       font-size="20px"
+       id="free-txt1">公有领域源代码</text>
+  </a>
+  <a
+     href="/philosophy/categories.html#LaxPermissiveLicensedSoftware"
+     target="_parent"
+     id="a06">
+    <text
+       x="340"
+       y="142"
+       text-anchor="middle"
+       font-size="20px"
+       id="free-txt2">松散及纵容型许可证</text>
+  </a>
+  <a
+     href="/philosophy/categories.html#CopyleftedSoftware"
+     target="_parent"
+     id="a07">
+    <text
+       x="340"
+       y="220"
+       text-anchor="middle"
+       font-size="20px"
+       id="free-txt3">Copyleft 许可证</text>
+  </a>
+  <a
+     href="/philosophy/categories.html#GPL-CoveredSoftware"
+     target="_parent"
+     id="a08">
+    <text
+       x="340"
+       y="275.5"
+       text-anchor="middle"
+       font-size="18px"
+       id="gpl-txt">GNU GPL, GNU AGPL, GNU LGPL</text>
+  </a>
+  <text
+     x="340"
+     y="360"
+     text-anchor="middle"
+     font-size="20px"
+     id="free-txt4">其他自由许可证</text>
+  <text
+     x="418"
+     y="670"
+     text-anchor="middle"
+     font-size="20px"
+     id="nonfree-private-txt1">用户没有源代码，或者</text>
+  <text
+     x="418"
+     y="700"
+     text-anchor="middle"
+     font-size="20px"
+     id="nonfree-private-txt2">使用非自由许可证及无许可证获得源代码。</text>
+  <a
+     href="/philosophy/categories.html#OpenSource"
+     target="_parent"
+     id="a10">
+    <text
+       x="226"
+       y="420"
+       text-anchor="middle"
+       font-size="18px"
+       id="nonfree-open-txt">非自由开源</text>
+  </a>
+  <a
+     href="/philosophy/categories.html#freeware"
+     target="_parent"
+     id="a10">
+    <text
+       x="226"
+       y="489"
+       text-anchor="middle"
+       fill="#404040"
+       font-size="18px"
+       id="freeware-txt">“免费软件”</text>
+  </a>
+  <a
+     href="/philosophy/categories.html#shareware"
+     target="_parent"
+     id="a11">
+    <text
+       x="226"
+       y="544"
+       text-anchor="middle"
+       fill="#404040"
+       font-size="18px"
+       id="shareware-txt">共享软件</text>
+  </a>
+  <text
+     x="226"
+     y="623"
+     text-anchor="middle"
+     fill="#404040"
+     font-size="18px"
+     id="gratis-text">可免费下载的软件</text>
+</svg>
