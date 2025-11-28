@@ -1,1 +1,1 @@
-mkslides
+mkslides==1.0.10
